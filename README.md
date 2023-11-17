@@ -1,8 +1,8 @@
 Hi 👋 My name is Muhammad Hassan
 ================================
 
-Full-Stack Engineer | ReactJS | NextJS | NodeJS | TypeScript | JavaScript
--------------------------------------------------------------------------
+Full Stack Engineer
+-------------------
 
 As a full-stack engineer, I have experience in building web and mobile applications using cutting-edge technologies. I have 5+ years of experience and have worked with many startups and teams all around the world developing robust, high-performance applications that solve real-world problems and deliver value to end users. I am passionate about keeping up with the latest trends and advancements in technology and continuously integrating innovative features and best practices into my projects. I am looking for opportunities to leverage my skills and experience to create impactful software solutions.
 
