@@ -8,7 +8,6 @@ I have experience in building web and mobile applications using cutting-edge tec
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [hassanansari17@gmail.com](mailto:hassanansari17@gmail.com)
-* 🚀  I'm currently working on [Assembly Industries](http://assembly-industries.com/)
 * 🧠  I'm learning AI/ML, Langchain, AI Chatbots, Python
 
 ### Skills
@@ -22,7 +21,3 @@ I have experience in building web and mobile applications using cutting-edge tec
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/hassan-irshad" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-hassan-54798a76/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/hassan-irshad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-irshad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
